@@ -1,5 +1,28 @@
 # Banking Dashboard
 
+## How to Run This Project
+
+### 1. Install Power BI Desktop
+- Download and install Power BI Desktop from the [official Microsoft Power BI website](https://powerbi.microsoft.com/desktop/).
+
+### 2. Open the Power BI Dashboard
+- Navigate to the `Banking Analysis/advance/` folder.
+- Open either `Banking Dashboard.pbix` or `Banking Dashboard (2025).pbix` in Power BI Desktop.
+
+### 3. Explore the Dashboard
+- Once the file is open, you can interact with the various dashboards, visualizations, and KPIs.
+- Use the filters and slicers to analyze different aspects of the banking data.
+
+### 4. Review the Data
+- The data sources (CSV and Excel files) are located in the same folder and subfolders.
+- You can view or edit the data connections in Power BI by going to the "Transform Data" option.
+
+### 5. View Documentation
+- The README (this file) provides an overview of the KPIs, calculated columns, and business logic used in the dashboard.
+- For a detailed report, refer to the `Banking Report.docx` file.
+
+---
+
 ## Problem Statement
 Develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
